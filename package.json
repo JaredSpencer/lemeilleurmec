@@ -2,6 +2,9 @@
   "name": "jared-spencer-website",
   "version": "1.0.0",
   "description": "Jared Spencer's personal and professional website",
+  "engines": {
+    "node": "7.4.0"
+  },
   "main": "index.js",
   "repository": "git@github.com:JaredSpencer/JaredSpencerWebsite.git",
   "scripts": {
